@@ -1,0 +1,16 @@
+C:\Users\ilyam\OneDrive\Документы\Работа\Чех\Гостиница\Гостиница\obj\Debug\Гостиница.csproj.AssemblyReference.cache
+C:\Users\ilyam\OneDrive\Документы\Работа\Чех\Гостиница\Гостиница\obj\Debug\Гостиница.FormMain.resources
+C:\Users\ilyam\OneDrive\Документы\Работа\Чех\Гостиница\Гостиница\obj\Debug\Гостиница.Properties.Resources.resources
+C:\Users\ilyam\OneDrive\Документы\Работа\Чех\Гостиница\Гостиница\obj\Debug\Гостиница.csproj.GenerateResource.cache
+C:\Users\ilyam\OneDrive\Документы\Работа\Чех\Гостиница\Гостиница\obj\Debug\Гостиница.csproj.CoreCompileInputs.cache
+C:\Users\ilyam\OneDrive\Документы\Работа\Чех\Гостиница\Гостиница\bin\Debug\Гостиница.exe.config
+C:\Users\ilyam\OneDrive\Документы\Работа\Чех\Гостиница\Гостиница\bin\Debug\Гостиница.exe
+C:\Users\ilyam\OneDrive\Документы\Работа\Чех\Гостиница\Гостиница\bin\Debug\Гостиница.pdb
+C:\Users\ilyam\OneDrive\Документы\Работа\Чех\Гостиница\Гостиница\obj\Debug\Гостиница.exe
+C:\Users\ilyam\OneDrive\Документы\Работа\Чех\Гостиница\Гостиница\obj\Debug\Гостиница.pdb
+C:\Users\ilyam\OneDrive\Документы\Работа\Чех\Гостиница\Гостиница\obj\Debug\Гостиница.exe.config
+C:\Users\ilyam\OneDrive\Документы\Работа\Чех\Гостиница\Гостиница\obj\Debug\Гостиница.Client.resources
+C:\Users\ilyam\OneDrive\Документы\Работа\Чех\Гостиница\Гостиница\obj\Debug\Гостиница.Employee.resources
+C:\Users\ilyam\OneDrive\Документы\Работа\Чех\Гостиница\Гостиница\obj\Debug\Гостиница.RoomInHotel.resources
+C:\Users\ilyam\OneDrive\Документы\Работа\Чех\Гостиница\Гостиница\obj\Debug\Гостиница.Contract.resources
+C:\Users\ilyam\OneDrive\Документы\Работа\Чех\Гостиница\Гостиница\obj\Debug\Гостиница.FormSQL.resources
